@@ -1,0 +1,10 @@
+{
+	"name": "pi-node-relay",
+	"version": "1.0.0",
+	"description": "Control a relay from anywhere using the Raspberry Pi",
+	"main": "app.js",
+	"dependencies": {
+		"express": "^4.18.2",
+		"rpi-gpio": "^2.1.7"
+	}
+}
